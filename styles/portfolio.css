@@ -35,7 +35,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -73,7 +73,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 50px 20px;
 }
 .content h1 {
   font-size: 64px;
@@ -178,7 +178,7 @@ footer .social-links a:hover {
   }
   .content-container {
     text-align: center;
-    padding: 0;
+    padding: 0px;
   }
   footer .contact-box {
     padding: 30px;
